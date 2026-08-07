@@ -1,0 +1,5 @@
+Cool room temperature complaint. Controller reading 3 C while calibrated probe reads 9 C.
+Evaporator previously iced. Sensor replaced. Controller offset later found at -7 K and reset to 0.
+TXV bulb found uninsulated and insulated. Superheat reduced after adjustment.
+Follow-up confirmed room and controller temperatures matched and evaporator remained clear.
+Claimed labour: 14.89 hours.
