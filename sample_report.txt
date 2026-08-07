@@ -1,8 +1,0 @@
-MOUL01 - Jul 21 2026
-Evaporator coil iced over. Controller reached 4 C while independent probe read 8-9 C. Sensor replaced. R404A discharge 1530 kPa, suction cut out at 300 kPa, superheat 14.5 K and subcooling 5.9 K. Technician suspected TXV bulb charge.
-
-MOUL01 - Jul 22 2026
-Controller displayed 3 C while actual temperature was 9 C. Controller offset found at -7 and reset to 0. TXV bulb found uninsulated and insulated. TXV adjusted. Final suction 470 kPa, discharge 1510 kPa, superheat 3 K, subcooling 10 K, room 4 C.
-
-MOUL01 - Jul 28 2026
-Follow-up found coil clear, controller accurate and room pulling down. Work order complete.
