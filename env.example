@@ -1,2 +1,0 @@
-OPENAI_API_KEY=replace_with_server_side_key
-OPENAI_MODEL=gpt-5.6
