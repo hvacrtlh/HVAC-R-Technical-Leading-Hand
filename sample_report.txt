@@ -1,0 +1,19 @@
+MOUL01 - Jul 21
+Cool room temperature problems. Controller showed approximately 4 C while independent probe measured 8-9 C.
+Evaporator heavily iced. Coil manually defrosted. Sensor replaced. Controller still reached set point too quickly.
+R404A. Initial readings included approximately 14.5 K superheat and 5.9 K subcooling.
+
+MOUL01 - Jul 22
+Controller showed approximately 3 C while actual room was approximately 9 C.
+Controller settings checked and an offset of -7 was found. Offset reset to 0.
+Controller then tracked the independent probe within approximately 0.5 C.
+TXV sensing bulb was found uninsulated and was insulated.
+TXV was adjusted gradually with stabilisation time between adjustments.
+Final readings approximately 3 K superheat and 10 K subcooling.
+Space reached set point.
+
+MOUL01 - Jul 28
+Follow-up inspection. Evaporator remained clear with no icing.
+Controller and independent probe agreed. System cycled normally.
+
+Total claimed labour: 14.89 hours.
