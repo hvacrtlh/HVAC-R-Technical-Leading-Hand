@@ -1,0 +1,19 @@
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local secrets
+.env
+.streamlit/secrets.toml
+
+# Local databases / generated files
+*.db
+*.sqlite
+*.sqlite3
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
